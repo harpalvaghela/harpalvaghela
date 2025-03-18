@@ -10,15 +10,26 @@
 
 - 💬 Ask me about **Productivity📈, Data Engineering, Piano🎹, SQL and AI.**
 
-- 🔗 Profile Link: [Check Profiles](https://beacons.page/harpalvaghela)
+- 🔗 Profile Link: [Beacons](https://beacons.page/harpalvaghela)
 
-- 🌎 Website: [www.harpalvaghela.com](https://www.harpalvaghela.com/)
+- 🌎 Website: [harpalvaghela.com](https://www.harpalvaghela.com/)
 
 - 📲 Join my WhatsApp Channel: [WhatsApp](https://whatsapp.com/channel/0029Vb5FmT8EwEk4B0bB1D3p)
 
-- LinkedIn: [LinkedIn](https://linkedin.com/in/harpalvaghela)
+- 💻 LinkedIn: [harpalvaghela](https://linkedin.com/in/harpalvaghela)
 
-- Read my latest blogs: [Medium](https://medium.com/@harpalvaghela)
+- 📝 Read my latest blogs: [Medium](https://medium.com/@harpalvaghela)
+
+
+- 🔗 Connect with me on my [Beacons profile](https://beacons.page/harpalvaghela).
+
+- 🌎 Visit my website: [harpalvaghela.com](https://www.harpalvaghela.com/).
+
+- 📲 Join my WhatsApp channel for updates: [WhatsApp](https://whatsapp.com/channel/0029Vb5FmT8EwEk4B0bB1D3p).
+
+- 💻 Connect on LinkedIn: [harpalvaghela](https://linkedin.com/in/harpalvaghela).
+
+- 📝 Explore my latest articles on [Medium](https://medium.com/@harpalvaghela).
 
 
 <h3 align="left">Connect with me:</h3>
