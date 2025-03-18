@@ -1,7 +1,7 @@
 ![logo](https://github.com/harpalvaghela/harpalvaghela/blob/main/Medium_Blog_Banner_Design.png)
 <h1 align="center">Hi 👋, I'm Harpal Vaghela</h1>
 <h3 align="center">Charting new frontiers in Data Engineering, I blend technical knowledge with creative innovation to lead, teach, and inspire in the tech world.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/harpalvaghela/harpalvaghela/blob/main/Github_Cover_Profile.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harpalvaghela&label=Profile%20views&color=0e75b6&style=flat" alt="harpalvaghela" /> </p>
