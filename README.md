@@ -1,3 +1,4 @@
+![logo](https://medium.com/@harpalvaghela?source=user_profile_page----------------------4d733d1d7d0a----------------------)
 <h1 align="center">Hi 👋, I'm Harpal Vaghela</h1>
 <h3 align="center">Charting new frontiers in Data Engineering, I blend technical knowledge with creative innovation to lead, teach, and inspire in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
