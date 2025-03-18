@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Productivity📈, Data Engineering, Piano🎹, SQL and AI.**
 
-- 🔗 Profile Link: [Beacons Page](https://beacons.page/harpalvaghela)
+- 🔗 Profile Link: [Check Profiles](https://beacons.page/harpalvaghela)
 
 - 🌎 Website: [www.harpalvaghela.com](https://www.harpalvaghela.com/)
 
