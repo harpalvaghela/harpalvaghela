@@ -1,6 +1,6 @@
 ![logo](https://github.com/harpalvaghela/harpalvaghela/blob/main/Medium_Blog_Banner_Design.png)
 <h1 align="center">Hi 👋, I'm Harpal Vaghela</h1>
-<h3 align="center">Charting new frontiers in Data Engineering, I blend technical knowledge with creative innovation to lead, teach, and inspire in the tech world.</h3>
+<h3 align="center">Hello there! I'm a Data Engineer passionate about AI and Innovation, with a rich background in SQL, Java, Kotlin, and studies in AI & Data Analytics. Founder of 'The Executors' Club', I'm committed to nurturing productivity and personal growth in a tech-driven community. Currently enhancing my skills in Microsoft Azure, I also enjoy tech explorations, reading, playing the keyboard, and nature.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/harpalvaghela/harpalvaghela/blob/main/Github_Cover_Profile.gif">
 
 
