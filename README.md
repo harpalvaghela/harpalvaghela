@@ -22,7 +22,6 @@
 <a href="https://linkedin.com/in/harpalvaghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harpalvaghela" height="30" width="40" /></a>
 <a href="https://fb.com/harpalvaghela1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harpalvaghela1111" height="30" width="40" /></a>
 <a href="https://instagram.com/harpalvaghela11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harpalvaghela11" height="30" width="40" /></a>
-<a href="https://discord.gg/7kJzMwyfYU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7kJzMwyfYU" height="30" width="40" /></a>
 <a href="https://medium.com/@harpalvaghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yourmediumusername" height="30" width="40" /></a>
 
 </p>
