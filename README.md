@@ -16,6 +16,10 @@
 
 - 📲 Join my WhatsApp Channel: [WhatsApp](https://whatsapp.com/channel/0029Vb5FmT8EwEk4B0bB1D3p)
 
+- LinkedIn: [LinkedIn](https://linkedin.com/in/harpalvaghela)
+
+- Read my latest blogs: [Medium](https://medium.com/@harpalvaghela)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
