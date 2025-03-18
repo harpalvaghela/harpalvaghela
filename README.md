@@ -12,9 +12,10 @@
 
 - 💬 Ask me about **Productivity📈, Data Engineering, Piano🎹, SQL and AI.**
 
-- 📫 How to reach me **harpalvaghela18@gmail.com**
+- 🔗 Profile Link: [Beacons Page](https://beacons.page/harpalvaghela)
 
-- 📄 Know about my experiences [https://www.harpalvaghela.com/experience/](https://www.harpalvaghela.com/experience/)
+- 🌎 Website: [www.harpalvaghela.com](https://www.harpalvaghela.com/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
