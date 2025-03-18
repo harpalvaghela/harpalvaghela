@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Data Engineering, and Piano.**
 
-- 👨‍💻 All of my projects are available at [www.harpalvaghela.com](www.harpalvaghela.com)
-
 - 💬 Ask me about **Productivity📈, Data Engineering, Piano🎹, SQL and AI.**
 
 - 🔗 Profile Link: [Beacons Page](https://beacons.page/harpalvaghela)
 
 - 🌎 Website: [www.harpalvaghela.com](https://www.harpalvaghela.com/)
+
+- 📲 Join my WhatsApp Channel: [WhatsApp](https://whatsapp.com/channel/0029Vb5FmT8EwEk4B0bB1D3p)
 
 
 <h3 align="left">Connect with me:</h3>
