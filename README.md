@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/harpalvaghela/harpalvaghela/blob/main/GitHub%20Banner.png" alt="Harpal Vaghela Banner" />
+  <img src="https://github.com/harpalvaghela/harpalvaghela/blob/main/LinkedinBanner.png" alt="Harpal Vaghela Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Harpal Vaghela</h1>
