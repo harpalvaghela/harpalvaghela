@@ -39,16 +39,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-| Python | PySpark | Java | Kotlin |
-| :----: | :-----: | :--: | :----: |
+| Python | PySpark | Java | Kotlin | Azure SQL DB | MySQL | SQL Server | PostgreSQL |
+| :----: | :-----: | :--: | :----: | :-----------: | :---: | :--------: | :--------: |
 
-| Azure SQL DB | MySQL | SQL Server | PostgreSQL |
-| :----------: | :---: | :--------: | :--------: |
-
-| Azure Data Factory | Azure Synapse Analytics | Microsoft Fabric | Databricks |
-| :----------------: | :---------------------: | :---------------: | :--------: |
-
-| Git | GitHub | BitBucket | Jira | Confluence | VSCode |
-| :-: | :----: | :--------: | :--: | :--------: | :----: |
+| Azure Data Factory | Azure Synapse Analytics | Microsoft Fabric | Databricks | Git | GitHub | BitBucket | Jira | Confluence | VSCode |
+| :----------------: | :---------------------: | :---------------: | :--------: | :-: | :----: | :--------: | :--: | :--------: | :----: |
 
 </p>
