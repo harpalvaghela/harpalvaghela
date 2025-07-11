@@ -2,7 +2,7 @@
   <img src="https://github.com/harpalvaghela/harpalvaghela/blob/main/LinkedInBanner.png" alt="Harpal Vaghela LinkedIn Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Harpal Vaghela</h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px"> <h1>
+<h1 align="center">Hi, I'm Harpal Vaghela <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"/></h1>
 <h4 align="left">Hello there! I'm a Data Engineer passionate about AI and Innovation, with a rich background in SQL, Java, Kotlin, and studies in AI & Data Analytics. Founder of 'The Executors' Club', I'm committed to nurturing productivity and personal growth in a tech-driven community. I also enjoy tech explorations, reading, playing the keyboard, and nature.</h4>
 <img align="right" alt="Coding" width="400" src="https://github.com/harpalvaghela/harpalvaghela/blob/main/Github_Cover_Profile.gif">
 
