@@ -38,48 +38,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><br/>Java
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="40" height="40"/><br/>Scala
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br/>Python
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/><br/>Spring Boot
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/><br/>Hadoop
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://spark.apache.org/streaming/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark Streaming" width="40" height="40"/><br/>Spark Streaming
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/><br/>Kafka
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/><br/>AWS
-      </a>
-    </td>
-  </tr>
-</table>
+| Python | PySpark | Java | Kotlin |
+| :----: | :-----: | :--: | :----: |
+
+| Azure SQL DB | MySQL | SQL Server | PostgreSQL |
+| :----------: | :---: | :--------: | :--------: |
+
+| Azure Data Factory | Azure Synapse Analytics | Microsoft Fabric | Databricks |
+| :----------------: | :---------------------: | :---------------: | :--------: |
+
+| Git | GitHub | BitBucket | Jira | Confluence | VSCode |
+| :-: | :----: | :--------: | :--: | :--------: | :----: |
+
 </p>
