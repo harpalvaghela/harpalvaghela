@@ -13,13 +13,7 @@
 
 - 🔗 Connect with me on my [Beacons profile](https://beacons.page/harpalvaghela).
 
-- 🌎 Visit my website: [harpalvaghela.com](https://www.harpalvaghela.com/).
-
 - 📲 Join my WhatsApp channel for updates: [WhatsApp](https://whatsapp.com/channel/0029Vb5FmT8EwEk4B0bB1D3p).
-
-- 💻 Connect on LinkedIn: [harpalvaghela](https://linkedin.com/in/harpalvaghela).
-
-- 📝 Explore my latest articles on [Medium](https://medium.com/@harpalvaghela).
 
 - 📱 Questions or Doubts?: [Book a call](https://topmate.io/harpal_vaghela).
 
@@ -30,6 +24,7 @@
 <a href="https://linkedin.com/in/harpalvaghela" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="harpalvaghela" height="30" width="40" /></a>
 <a href="https://fb.com/harpalvaghela1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harpalvaghela1111" height="30" width="40" /></a>
 <a href="https://instagram.com/harpalvaghela11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harpalvaghela11" height="30" width="40" /></a>
+<a href="https://harpalsinhvaghela.com" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website" height="30" width="30" /></a>
 <a href="https://medium.com/@harpalvaghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yourmediumusername" height="30" width="40" /></a>
 
 </p>
